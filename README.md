@@ -1,5 +1,20 @@
 # FIFA WorldCup - EDA
 
+Liberary required to work with EDA are:
+
+```
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly as py                
+import cufflinks as cf
+%matplotlib inline
+from plotly.offline import iplot   
+py.offline.init_notebook_mode(connected=True)
+cf.go_offline()
+```
+
 ## Information about the data
 
 The FIFA World Cup is a global football competition contested by the various football-playing nations of the world. It is contested every four years and is the most prestigious and important trophy in the sport of football.
