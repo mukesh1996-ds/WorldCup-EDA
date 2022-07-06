@@ -31,9 +31,9 @@ The World Cups dataset show all information about all the World Cups in the hist
 
 In the data there are few names of the city which are not in order we need to find then and replace it using the command
 
-'''
+```
 df['column name'] = df['column name']. replace(['1st old value','2nd old value',...],['1st new value','2nd new value',...])
-'''
+```
 
 
 ## Dataset 2:
