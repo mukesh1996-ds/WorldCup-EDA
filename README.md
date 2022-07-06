@@ -29,6 +29,12 @@ The World Cups dataset show all information about all the World Cups in the hist
 19. Home Team Initials : Home team country's three letter initials
 20. Away Team Initials : Away team country's three letter initials
 
+In the data there are few names of the city which are not in order we need to find then and replace it using the command
+
+'''
+df['column name'] = df['column name']. replace(['1st old value','2nd old value',...],['1st new value','2nd new value',...])
+'''
+
 
 ## Dataset 2:
 
@@ -54,4 +60,3 @@ The World Cups dataset show all information about all the World Cups in the hist
 8. QualifiedTeams : Total participating teams
 9. MatchesPlayed : Total matches played in the cup
 10. Attendance : Total attendance of the worldcup
-
