@@ -1,4 +1,4 @@
-# WorldCup-EDA
+# FIFA WorldCup - EDA
 
 ## Information about the data
 
