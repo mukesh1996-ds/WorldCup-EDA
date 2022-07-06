@@ -60,3 +60,10 @@ df['column name'] = df['column name']. replace(['1st old value','2nd old value',
 8. QualifiedTeams : Total participating teams
 9. MatchesPlayed : Total matches played in the cup
 10. Attendance : Total attendance of the worldcup
+
+From this data we have found the following 
+
+```
+1. Most winner in world cup
+2. Number of goal per country
+```
